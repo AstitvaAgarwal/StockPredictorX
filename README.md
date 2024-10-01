@@ -70,6 +70,7 @@ This project leverages the following technologies and tools:
 **Tiingo API:** For fetching historical stock price data.
 
 
+## API Reference
 **Tiingo API**
 
 URL: `https://api.tiingo.com/`
