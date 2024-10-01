@@ -128,12 +128,13 @@ python stock_prediction.py
 ### 1. Actual Data vs Train Data vs Test Data
 This graph illustrates the comparison between the actual data, the data used for training, and the test data. It helps in understanding how well the model fits the training data and how it generalizes to unseen test data.
 
-![Actual Data, Train Data, Test Data](path/to/screenshot1.png)
+![Original Data vs Training and Test Predictions](Screenshots/Original%20Data%20vs%20Training%20and%20Test%20Predictions.png)
+
 
 ### 2. Actual Data vs Predicted Data
 In this graph, the actual data is compared with the predicted values from the model. This shows how accurately the model is able to forecast the future based on the input data.
 
-![Actual Data, Predicted Data](path/to/screenshot2.png)
+![Original vs Predicted Data](Screenshots/Original%20vs%20Predicted%20Data.png)
 
 - **Training Data Prediction Plot:** Comparison of predicted vs actual stock prices on the training dataset.
 - **Testing Data Prediction Plot:** Comparison of predicted vs actual stock prices on the testing dataset.
