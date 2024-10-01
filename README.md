@@ -6,15 +6,19 @@ This project implements a Stock Price Prediction model using Long Short-Term Mem
 
 ## Table of Content 
 
-- Acknowledgement
-- API Reference
-- Appendix
-- Demo
-- Deployment
-- Environment Variables
-- Features
-- Related Projects
-- License
+- [Features](#features)
+- [Project Workflow](#project-workflow)
+- [Dataset](#dataset)
+- [Model Architecture](#model-architecture)
+- [Tech Stack](#tech-stack)
+- [API Reference](#api-reference)
+- [Environment Variables](#environment-variables)
+- [Deployment](#deployment)
+- [Demo](#demo)
+- [Results](#results)
+- [Acknowledgements](#acknowledgements)
+- [Appendix](#appendix)
+- [References](#references)
 ## Features
 
 - **Historical Data Analysis:** Fetches and analyzes historical stock price data from Tiingo API.
@@ -98,7 +102,7 @@ To deploy the project locally or on a cloud platform:
 
 - Clone the repository:
 ```bash
-  git clone https://github.com/yourusername/stock-price-prediction.git
+  git clone https://github.com/AstitvaAgarwal/stock-price-prediction.git
 ```
 
 - Install the required dependencies:
