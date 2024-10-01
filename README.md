@@ -70,8 +70,6 @@ This project leverages the following technologies and tools:
 **Tiingo API:** For fetching historical stock price data.
 
 
-## API Reference
-
 **Tiingo API**
 
 URL: `https://api.tiingo.com/`
@@ -82,7 +80,8 @@ Example Request:
 ```bash
 GET https://api.tiingo.com/tiingo/daily/AAPL/prices?startDate=2020-01-01&endDate=2023-12-31
 Authorization: Token YOUR_API_KEY
-```## Environment Variables
+```
+## Environment Variables
 To run this project, you will need to add the following environment variables to your ```.env``` file:
 | Variable            | Description                                                               |
 | ----------------- | ------------------------------------------------------------------ |
