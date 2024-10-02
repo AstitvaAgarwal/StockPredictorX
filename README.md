@@ -102,7 +102,7 @@ To deploy the project locally or on a cloud platform:
 
 - Clone the repository:
 ```bash
-  git clone https://github.com/AstitvaAgarwal/stock-price-prediction.git
+  git clone https://github.com/AstitvaAgarwal/StockPredictorX.git
 ```
 
 - Install the required dependencies:
